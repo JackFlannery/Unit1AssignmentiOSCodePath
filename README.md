@@ -20,4 +20,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### Notes
 Uploading the project to GitHub was a challenge since XCode would not let me log into GitHub even though I checked my credentials... 
 
+The GIF is also a bit slow since my mac is a bit older and so the XCode simulator is not the fastest for me!
+
 Otherwise building the app was a blast!
